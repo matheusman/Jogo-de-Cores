@@ -9,6 +9,12 @@
 body {
     font-family: 'Inter', sans-serif;
     overflow: hidden;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(211, 135, 91, 0.699);
+    padding: 30px;
 }
 
 .menu {
@@ -46,13 +52,7 @@ body {
 .game {
     padding: 10px;
     width: 100%;
-    background: rgb(202, 187, 187);
     text-align: center;
-}
-
-.game-escolha {
-    background: rgb(207, 187, 187);
-    padding: 20px;
 }
 
 .game-touch {
