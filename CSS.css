@@ -79,22 +79,21 @@ body {
 
 @keyframes animation-certo {
     0% {
-        background-color: var(--cor-object1);
-        background-image: url("../assets/correto.png");
+        background-image: url("./assets/correto.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
         opacity: 0.6;
     }
     50% {
-        background-image: url("../assets/correto.png");
+        background-image: url("./assets/correto.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
         opacity: 0.8;
     }
     100% {
-        background-image: url("../assets/correto.png");
+        background-image: url("./assets/correto.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
@@ -109,22 +108,21 @@ body {
 
 @keyframes animation-errado {
     0% {
-        background-color: var(--cor-object1);
-        background-image: url("../assets/errado.png");
+        background-image: url("./assets/errado.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
         opacity: 0.6;
     }
     50% {
-        background-image: url("../assets/errado.png");
+        background-image: url("./assets/errado.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
         opacity: 0.8;
     }
     100% {
-        background-image: url("../assets/errado.png");
+        background-image: url("./assets/errado.png");
         background-repeat: no-repeat;
         background-size: 100px;
         background-position: center;
